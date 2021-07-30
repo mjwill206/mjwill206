@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mjwill206
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+<!-- - 👀 I’m interested in ... -->
+<!-- - 🌱 I’m currently learning ... -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 Email: mjwill206@gmail.com | Website: www.mattwilliamsdata.com
 
